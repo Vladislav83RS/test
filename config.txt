@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = http://phonegap.com/ns/1.0"
+    id="vladislav.gametest.example"
+    versionCode="10"
+    version="1.0.0">
+
+<! - - versionCode is optionaland Android only - - >
+
+   <name>Vladislav</name>
+
+   <desciption>
+   Vladislav traffic signs game
+   </desciption>
+
+   <author href="https://trafficandroadsigns.com" email="vladislavmilovanovic@gmail.com">
+       Vladislav
+   </author>
+
+   icon src="logo.png" />
+
+</widget>
